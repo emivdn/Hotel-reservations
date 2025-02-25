@@ -1,4 +1,4 @@
-# Hotel-reservations
+# Hotel-reservations_JSP
 The project theme is based on the development of an application that includes a database, created in the MySQL database management system, and aims to demonstrate the flexibility and efficiency of JSP technology by implementing CRUD operations—Create, Read, Update, Delete—in an interactive web application.
 Developed one user-friendly web application for managing the database of a hotel:  An application managing a database using JSP.
 Objectives: Client Management, Hotel Management, Room Management. 
