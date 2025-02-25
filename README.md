@@ -7,3 +7,7 @@ The application can be used to manage hotel reservations for clients. The "Clien
 
 
 ![image](https://github.com/user-attachments/assets/9fa3c770-85a4-4a36-b4bc-fa2a182d8a54)
+
+![image](https://github.com/user-attachments/assets/9bdaea17-5747-43f6-9b63-c375ed1222c8)
+
+![image](https://github.com/user-attachments/assets/90775188-3326-47fc-bd5f-9a7dc3c98d2a)
