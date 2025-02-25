@@ -6,3 +6,4 @@ Applicability
 The application can be used to manage hotel reservations for clients. The "Clients" table stores information about customers, while "Rooms" and "Hotels" are used to track availability and details of rooms and hotels. Users can quickly check availability, book rooms, and view their booking history.
 
 
+![image](https://github.com/user-attachments/assets/9fa3c770-85a4-4a36-b4bc-fa2a182d8a54)
